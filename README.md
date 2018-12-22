@@ -1,9 +1,8 @@
-It's me, Tierney!
+Howdy!
+This is my business card!
 
 # Usage
 Via npx:
 ```
-npx bitandbang
+npx micheleleo
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
